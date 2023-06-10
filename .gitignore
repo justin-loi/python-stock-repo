@@ -1,0 +1,17 @@
+###############################################################################
+###               Stock Repo
+###
+### Tells git which files to ignore
+###
+### @see https://git-scm.com/docs/gitignore
+###
+### @file   .gitignore
+### @author Justin Loi
+###############################################################################
+
+# Ignore a hidden file for MacOS filesystems
+.DS_Store
+
+.idea/*
+*.xml
+*.iml
