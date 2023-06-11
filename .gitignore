@@ -15,3 +15,6 @@
 .idea/*
 *.xml
 *.iml
+
+# important keys
+config.py
